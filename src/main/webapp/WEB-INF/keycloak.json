@@ -1,0 +1,10 @@
+{
+  "realm": "my-realm",
+  "auth-server-url": "http://127.0.0.1:8080/auth/",
+  "ssl-required": "external",
+  "resource": "ouss-client",
+  "credentials": {
+    "secret": "eJaG2Wsb0omsZO5LOPemsFKgIL0FmSzK"
+  },
+  "confidential-port": 0
+}
